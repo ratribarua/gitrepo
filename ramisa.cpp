@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << "Ramisa is a leissho";
+    cout << "Ramisa is a valu meye";
 }
